@@ -1,0 +1,6 @@
+Step1: Start
+step2: Declare variables num
+Step3:read num
+step4: if(num%2==0)
+step5: print(num is even)
+step6:stop
